@@ -9,3 +9,5 @@ hello = () => {
 hello = () => "Hello World!";
 
 hello = (val) => "Hello " + val;
+
+hello = val => "Hello " + val;
