@@ -7,3 +7,5 @@ hello = () => {
 }
 
 hello = () => "Hello World!";
+
+hello = (val) => "Hello " + val;
