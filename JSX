@@ -35,3 +35,6 @@ const myElement = (
   </div>
 );
 
+Wrap two paragraphs inside a fragment:
+
+
