@@ -48,5 +48,7 @@ Close empty elements with /> : const myElement = <input type="text" />;
 Use attribute className instead of class in JSX:
 const myElement = <h1 className="myclass">Hello World</h1>;
 
+Comments in JSX:
+
 
 
