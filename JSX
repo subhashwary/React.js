@@ -4,7 +4,14 @@ JSX stands for JavaScript XML.
 JSX allows us to write HTML in React.
 JSX makes it easier to write and add HTML in React.
 
+Example1
 const myElement = <h1>I Love JSX!</h1>;
+createRoot(document.getElementById('root')).render(
+  myElement
+);
+
+Example2
+const myElement = React.createElement('h1', {}, 'I do not use JSX!');
 createRoot(document.getElementById('root')).render(
   myElement
 );
