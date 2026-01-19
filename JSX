@@ -26,3 +26,5 @@ const myElement = (
     <li>Cherries</li>
   </ul>
 );
+
+Wrap two paragraphs inside one DIV element:
