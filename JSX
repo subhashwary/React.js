@@ -43,7 +43,7 @@ const myElement = (
   </>
 );
 
-Close empty elements with />
+Close empty elements with /> : const myElement = <input type="text" />;
 
 
 
