@@ -43,6 +43,8 @@ const myElement = (
   </>
 );
 
+Close empty elements with />
+
 
 
 
